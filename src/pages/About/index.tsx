@@ -1,10 +1,10 @@
 import React from 'react';
-import styles from './index.css';
+import styles from './index.less';
 
 export default function Page() {
   return (
     <div>
-      <h1 className={styles.title}>Page Login/index</h1>
+      <h1 className={styles.title}>Page About/index</h1>
     </div>
   );
 }
